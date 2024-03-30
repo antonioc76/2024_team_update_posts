@@ -1,0 +1,6 @@
+For the first year ever Sooner Competitive Robotics is hosting our very own robotics competition!
+Sooner Tele-Operated Robotics Mission (STORM) will begin two weeks from now, where teams will go head to head navigating remotely through the eyes of their very own robots. Teams may score points by retrieving and securing payloads, visiting areas of interest on the course, racing through slalom walls, or avoiding hazardous obstacles. 
+
+SCR's very first STORM team has finalized their bot for competition. It features a tank tread drive-train, an electronics chassis, and a controllable arm for securing payloads. Our team has had a blast designing and testing their solutions to the format. They're ready to take down the rest of the competition!
+
+If you'd like to learn more about our competition, you can visit: https://ou.edu/scr/storm/. 

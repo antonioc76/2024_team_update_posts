@@ -1,0 +1,5 @@
+So far we've shown off some of the individual projects going into our competition robot for the
+Intelligent Ground Vehicle Competition (IGVC). This time we're showing off the entire robot. With
+competition right around the corner, all that's left are the finishing touches. We're coming out in style 
+with a drop-center drive train and retractable doors to protect our valuable electronics. Check out the 
+systems remote driving capabilities!
